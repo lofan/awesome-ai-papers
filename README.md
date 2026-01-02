@@ -37,7 +37,8 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 ## 2026 Papers <a name="2026"></a>
 
 ## 2025 Papers <a name="2025"></a>
-* ⭐ [On the Trustworthiness of Generative Foundation Models — Guideline, Assessment, and Perspective](https://arxiv.org/abs/2502.14296?utm_source=www.turingpost.com&utm_medium=newsletter&utm_campaign=8-awesome-research-papers-you-might-have-missed-but-must-read)
+* ⭐ [On the Trustworthiness of Generative Foundation Models — Guideline, Assessment, and Perspective](https://arxiv.org/abs/2502.14296)
+* ⭐ [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures] (https://arxiv.org/abs/2505.09343)
 
 ## 2024 Papers <a name="2024"></a>
 
