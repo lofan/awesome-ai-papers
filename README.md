@@ -38,7 +38,13 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 
 ## 2025 Papers <a name="2025"></a>
 * ⭐ [On the Trustworthiness of Generative Foundation Models — Guideline, Assessment, and Perspective](https://arxiv.org/abs/2502.14296)
-* ⭐ [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures] (https://arxiv.org/abs/2505.09343)
+* ⭐ [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://arxiv.org/abs/2505.09343)
+* ⭐ [Inside-Out: Hidden Factual Knowledge in LLMs](https://arxiv.org/abs/2503.15299)
+* ⭐ [Transformers without Normalization](https://huggingface.co/papers/2503.10622)
+* ⭐ [The GAN is dead; long live the GAN! A Modern GAN Baseline](https://arxiv.org/abs/2501.05441)
+* ⭐ [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training](https://arxiv.org/abs/2501.17161)
+* ⭐ [New Methods for Boosting Reasoning in Small and Large Models from Microsoft Research](https://www.microsoft.com/en-us/research/blog/new-methods-boost-reasoning-in-small-and-large-language-models)
+* ⭐ [Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought (Meta-CoT)](https://huggingface.co/papers/2501.04682)
 
 ## 2024 Papers <a name="2024"></a>
 
