@@ -34,7 +34,10 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 📰 Important Article : decisive work that was not accompanied by a research paper.
 
 ----
+## 2026 Papers <a name="2026"></a>
+
 ## 2025 Papers <a name="2025"></a>
+* ⭐ [On the Trustworthiness of Generative Foundation Models — Guideline, Assessment, and Perspective](https://arxiv.org/abs/2502.14296?utm_source=www.turingpost.com&utm_medium=newsletter&utm_campaign=8-awesome-research-papers-you-might-have-missed-but-must-read)
 
 ## 2024 Papers <a name="2024"></a>
 
