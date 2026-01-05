@@ -47,7 +47,7 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * ⭐ [Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought (Meta-CoT)](https://huggingface.co/papers/2501.04682) This paper introduces Meta-CoT, a new framework for reasoning in LLMs that reflects on the reasoning process itself. Inspired by System 2 thinking, it supports iterative thinking and checking for complex problems.
 
 ## 2024 Papers <a name="2024"></a>
-* ⭐ [Introduction to Machine Learning](https://arxiv.org/abs/2409.02668)
+* ⭐ [Introduction to Machine Learning](https://arxiv.org/abs/2409.02668) This book introduces the mathematical foundations and techniques that lead to the development and analysis of many of the algorithms that are used in machine learning.
 
 ## 2023 Papers <a name="2023"></a>
 
